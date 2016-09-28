@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;UploadfileActivity&apos; to &apos;RecoadWav&apos;&#x0D;&#x0A;- Original element: &apos;UploadfileActivity&apos;&#x0D;&#x0A;- Renamed element: &apos;UploadfileActivity&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;UploadfileActivity&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=UploadfileActivity" name="RecoadWav" references="true" stamp="1458814945463" version="1.0"/>
+</session>
