@@ -1,14 +1,7 @@
 # voice-recognizing
 主题：nltk+htk+nodejs+php语音识别系统
 
-v.0.9
-客户端采用安卓app采集用户语音，然后上传到服务器，服务器端php处理客户端请求，识别语音后一方面送回app，另一方面，采用nodejs进行识别结果分发，
-可以支持其他的客户端需求。
-采用docker容器部署，redis容器作为数据交换媒介。
-htk容器下载地址：http://pan.baidu.com/s/1c2KCDjy
-nodejs容器下载地址：http://pan.baidu.com/s/1mhSTBwW
-lmtools是语言模型训练工具，包括nltk，srilm。里面加入了一些自动化的脚本，方便使用。
-其他详细情况见说明文档和代码。
+
 
 版本：v.0.9
 系统原理：
